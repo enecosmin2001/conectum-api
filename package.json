@@ -1,0 +1,19 @@
+{
+  "name": "conectum-api",
+  "version": "1.0.0",
+  "description": "Personal API for helping in development process of diferent apps - Cosmin",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "build": "nodemon server.js"
+  },
+  "author": "Ene Cosmin-Mihai",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
+}
